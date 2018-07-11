@@ -32,7 +32,6 @@ public class SmsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
         bankDatahelper = new BankDatahelper(context);
     }
 
-
     @NonNull
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
