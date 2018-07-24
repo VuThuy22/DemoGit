@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="txt_hello_user">Xin chào %s</string>
+</resources>
